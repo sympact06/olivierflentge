@@ -41,10 +41,10 @@
 <summary> <strong>GitHub Stats</strong> </summary>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaxThakurCodes&show_icons=true&include_all_commits=true&theme=bear" alt="Max's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SympactDev&show_icons=true&include_all_commits=true&theme=bear" alt="Olivier's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxThakurCodes&layout=compact&theme=bear" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SympactDev&layout=compact&theme=bear" />
 </a>
 
 
