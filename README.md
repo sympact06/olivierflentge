@@ -27,10 +27,6 @@
 
 
 
-</details>
-<details>
-<summary> <strong>Time Stats</strong> </summary>
- 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
