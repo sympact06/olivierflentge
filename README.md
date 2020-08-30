@@ -1,8 +1,9 @@
-### Hi there, I'm SympactDev!
+### Hi there, I'm SympactDev/Olivier!
 
-## I'm a Developer, 
+## I'm a Developer/Hacker, 
 - I'm working on random projects!
-- 2020 Goals: To finish EverseApp.
+- Ethical Hacker
+- Hobby
 
 
 ### Languages and Tools I use:
