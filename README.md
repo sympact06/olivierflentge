@@ -32,7 +32,7 @@
 
 <details>
   
-  <br>
+  <br>      
 <br>
 
 <summary> <strong>GitHub Stats</strong> </summary>
