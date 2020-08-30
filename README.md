@@ -1,9 +1,11 @@
 ### Hi there, I'm SympactDev/Olivier!
+</details>
 
 ## I'm a Developer/Hacker, 
 - I'm working on random projects!
 - Ethical Hacker
 - Hobby
+</details>
 
 
 ### Languages and Tools I use:
@@ -30,7 +32,6 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-</details>
 <details>
 <summary> <strong>GitHub Stats</strong> </summary>
 
