@@ -35,7 +35,8 @@
   
   <br>      
 <br>
-
+<div>
+  
 <summary> <strong>GitHub Stats</strong> </summary>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
