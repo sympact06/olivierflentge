@@ -1,11 +1,12 @@
 ### Hi there, I'm SympactDev/Olivier!
 </details>
 <br>
+Want to Contact me? Use my <a href="url">DISCORD!</https://discord.com/users/637753470161780786>
+!
 
-
-## I'm a Developer/Hacker, 
-- I'm working on random projects!
-- Ethical Hacker
+## I'm a Engineer , 
+- CloudDeveloping
+- Developing
 - Hobby
 </details>
 <!--START_SECTION:waka-->
