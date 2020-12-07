@@ -1,7 +1,7 @@
 ### Hi there, I'm SympactDev/Olivier!
 </details>
 <br>
-Want to Contact me? Use my <a href="url">DISCORD!</https://discord.com/users/637753470161780786>
+Want to Contact me? Use my <a href="https://discord.com/users/637753470161780786">DISCORD!</a>
 !
 
 ## I'm a Engineer , 
