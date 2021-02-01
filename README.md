@@ -41,10 +41,10 @@ Want to Contact me? Use my <a href="https://discord.com/users/637753470161780786
 <summary> <strong>GitHub Stats</strong> </summary>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SympactDev&show_icons=true&include_all_commits=true&theme=bear" alt="Olivier's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HelixDev&show_icons=true&include_all_commits=true&theme=bear" alt="Helix's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SympactDev&layout=compact&theme=bear" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelixDev&layout=compact&theme=bear" />
 </a>
 
 
