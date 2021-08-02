@@ -1,15 +1,15 @@
-### Hi there, I'm SympactDev/Olivier!
+### Hi there, I'm Olivier!
 </details>
 <br>
-Want to Contact me? Use my <a href="https://discord.com/users/637753470161780786">DISCORD!</a>
+Want to Contact me? Use my <a href="https://discord.gg/JWQ4XYYGhE">Discord Server!</a>
 !
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-## I'm a Engineer , 
-- CloudDeveloping
-- Developing
-- Hobby
+## I'm a Student! , 
+- Networking
+- Coding
+- GameDeveloping
 </details>
 <!--START_SECTION:waka-->
 <br>
