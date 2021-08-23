@@ -1,15 +1,11 @@
-### Hi there, I'm Olivier!
+### Hey. I am Olivier
 </details>
 <br>
-Want to Contact me? Use my <a href="https://discord.gg/JWQ4XYYGhE">Discord Server!</a>
-!
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-
 ## I'm a Student! , 
 - Networking
-- Coding
-- GameDeveloping
+- C#, Python, Basic AI
+- Cryptography Security
+- Linux *explosion*
 </details>
 <!--START_SECTION:waka-->
 <br>
@@ -34,10 +30,6 @@ Want to Contact me? Use my <a href="https://discord.gg/JWQ4XYYGhE">Discord Serve
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<details>
-  
-  <br>      
-<br>
 <div>
   
 <summary> <strong>GitHub Stats</strong> </summary>
