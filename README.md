@@ -2,10 +2,11 @@
 </details>
 <br>
 ## I'm a Student! , 
-- Networking
+```- Networking
 - C#, Python, Basic AI
 - Cryptography Security
 - Linux *explosion*
+```
 </details>
 <!--START_SECTION:waka-->
 <br>
