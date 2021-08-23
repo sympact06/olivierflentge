@@ -1,17 +1,14 @@
 ### Hey. I am Olivier
 </details>
 <br>
-##I'm a Student!
+This is what I do:
 
 
 - Networking
 - C#, Python, Basic AI
 - Cryptography Security
 - Linux *explosion*
-
-
 </details>
-<!--START_SECTION:waka-->
 <br>
 
 
@@ -31,8 +28,6 @@
 
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 <div>
   
