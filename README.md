@@ -6,7 +6,7 @@ This is what I do:
 
 - Networking
 - C#, Python, Basic AI
-- Cryptography Security
+- Cryptography
 - Linux *explosion*
 </details>
 <br>
