@@ -20,7 +20,7 @@ do
         cd revolt
         docker-compose up -d
             ;;
-        "Start Alles")
+        "Start alles")
         cd
         cd revolt
         docker-compose up -d
