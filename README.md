@@ -1,14 +1,4 @@
-### Hey. I am Olivier
-</details>
-<br>
 
-
-
-
-
-
-<div>
-  
 <summary> <strong>                   </strong> </summary>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
