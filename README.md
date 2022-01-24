@@ -1,16 +1,6 @@
 ### Hey. I am Olivier
 </details>
 <br>
-This is what I do:
-
-
-- Networking
-- C#, Python, Basic AI
-- Cryptography
-- Linux *explosion*
-</details>
-<br>
-
 
 
 
